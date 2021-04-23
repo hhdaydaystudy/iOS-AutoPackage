@@ -1,5 +1,5 @@
 #! bin/bash
-#我的简书:http://www.jianshu.com/u/fe6c0b46d16d  欢迎Star
+#我的简书:https://www.jianshu.com/u/05d0b994845e  欢迎Star
 #Use:命令行进入目录直接执行sh Build+DeployToFir.sh即可完成打包发布到fir.im
 
 #注意:使用本脚本上传到fir.im需要满足以下环境:一. ruby版本>1.9.3 (查看当前ruby版本 ruby -v) 二. ruby安装完毕,安装fir.im命令行插件 (gem install fir-cli)
